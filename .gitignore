@@ -1,0 +1,12 @@
+*.uvgui*
+*.uvopt
+*.uvoptx
+*.bak
+*.dep
+
+Objects/
+Listings/
+RTE/
+Build/
+Debug/
+Release/
